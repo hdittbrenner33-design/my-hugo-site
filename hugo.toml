@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Haley's Hugo Website'
+disableKinds = ['taxonomy', 'term']
