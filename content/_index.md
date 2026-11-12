@@ -10,3 +10,4 @@ Here are some things I like:
 - GitHub Actions
 - **Coffee**
 - I actually don't like coffee
+- I added this item after step six
